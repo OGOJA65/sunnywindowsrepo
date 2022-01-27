@@ -1,0 +1,3 @@
+This is the second file by the name 'mysecondfile.txt'
+
+This is the line added/appended to the end of the file 'mysecondfile.txt'
