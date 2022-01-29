@@ -1,0 +1,118 @@
+    1  java version
+    2  nvn -versiom
+    3  mvn -version
+    4  git ls -l
+    5  pwd
+    6  touch file1.txt
+    7  =ls
+    8  ls -l
+    9  git status
+   10  git init
+   11  git status
+   12  git add .
+   13  git status
+   14  git add
+   15  git add .
+   16  cat file1.txt
+   17  git commit -m
+   18  cat file1.txt
+   19  git commit -m
+   20  git commit -m "this is my first commit"
+   21  git config --list
+   22  clear
+   23  git status
+   24  git init
+   25  gitv status
+   26  git status
+   27  git init
+   28  git status
+   29  touch file2.txt
+   30  clear
+   31  git status
+   32  git init
+   33  git master
+   34  git --help
+   35  git status
+   36  git init
+   37  pwd
+   38  ls
+   39  git status
+   40  git init
+   41  git add
+   42  git add .
+   43  git config
+   44  git commit -m
+   45  git commit -m "This is my first commit on file1.txt"
+   46  git config --global ujum123@gmail.com
+   47  git config --globalclea
+   48  clear
+   49  touch file2.txt
+   50  ls
+   51  git add file2.txt
+   52  ls
+   53  ls -l
+   54  git commit -m "This is my first commit on file2.txt"
+   55  clear
+   56  git log
+   57  echo "This is the first line of the file 'file1.txt'" >file1.txt
+   58  git status
+   59  git add
+   60  git add .
+   61  git commit -m "This is my first commit on file1.txt"
+   62  git config --global user.email "ujum123@gmail.com"
+   63  git config --global user.name "Sunny"
+   64  git config --list
+   65  git --version
+   66  git help commit
+   67  git commit --help
+   68  mkdir test1
+   69  git init
+   70  pwd
+   71  ls
+   72  cd test1
+   73  pwd
+   74  git init
+   75  git status
+   76  touch fil22.txt
+   77  echo "This is the first line of the file 'file22.txt'" >file22.txt
+   78  git status
+   79  git add .
+   80  git commitv -m "This is my first commit on file22.txt"
+   81  git commit -m "This is my first commit on file22.txt"
+   82  git log
+   83  git config --list
+   84  git add file22.txt
+   85  git status
+   86  pwd
+   87  git log
+   88  .git
+   89  cat config
+   90  ls -lrt
+   91  git log
+   92  git log --online
+   93  git log --oneline
+   94  git log --graph --pretty=online
+   95  git config --list
+   96  git config --global user.name "sunny"
+   97  git config --global user,email ujum123@gmail.com
+   98  git config --list
+   99  git config --global user.name "sunny"
+  100  git config --global user,email ujum123@gmail.com
+  101  git config --global user.email ujum123@gmail.com
+  102  git config --list
+  103  cd ,git
+  104  cd .git
+  105  ls -l
+  106  cat config
+  107  cat description
+  108  cat HEAD
+  109  CLEAR
+  110  git config --list
+  111  git log
+  112  git log --oneline
+  113  cd .
+  114  pwd
+  115  git localrepo
+  116  cd /localrepo
+  117  pwd
+  118  history > historyfile.txt
